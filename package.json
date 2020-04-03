@@ -1,0 +1,22 @@
+{
+  "name": "image-optimization",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Engine for image optimization",
+  "license": "MIT",
+  "author": {
+    "name": "Vivendum",
+    "email": "vivendum@mail.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivendum/image-optimization.git"
+  },  
+  "homepage": "https://github.com/Vivendum/image-optimization#readme",
+  "bugs": {
+    "url": "https://github.com/Vivendum/image-optimization/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
