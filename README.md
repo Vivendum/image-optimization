@@ -1,2 +1,6 @@
-# image-optimization
-Engine for image optimization
+# [image-optimization](https://github.com/Vivendum/image-optimization#readme)
+Engine for image optimization.
+
+---
+
+[MIT License](LICENSE)
